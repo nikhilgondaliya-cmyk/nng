@@ -5,7 +5,7 @@ void main()
 printf("Hello");
 printf("hi");
 printf("Hi from Github");
-printf("hi NIKHIL GONDALIYA"); 
+printf("hi SHITAL GONDALIYA"); 
 printf("hello");
 printf("Hi from sng branch");
 printf("hello hi");
