@@ -5,7 +5,7 @@ void main()
 printf("Hello");
 printf("hi");
 printf("Hi from Github");
-printf("hi SHITAL GONDALIYA"); 
+// This is deleted line
 printf("hello");
 printf("Hi from sng branch");
 printf("hello hi");
