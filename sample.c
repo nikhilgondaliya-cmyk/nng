@@ -5,4 +5,5 @@ void main()
 printf("Hello");
 printf("hi");
 printf("Hi from Github");
+printf("hi");
 }
