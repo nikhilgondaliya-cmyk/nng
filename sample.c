@@ -5,7 +5,7 @@ void main()
 printf("Hello");
 printf("hi");
 printf("Hi from Github");
-// This line editing by gcet branch
+printf("Hi from GCET");
 printf("hello");
 printf("Hi from sng branch");
 printf("hello hi");
