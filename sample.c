@@ -2,7 +2,7 @@
 
 void main()
 {
-printf("Hello Main");
+printf("Hello NIKHIL GONDAILYA");
 printf("hi");
 printf("Hi from Github");
 printf("Hi from GCET");
