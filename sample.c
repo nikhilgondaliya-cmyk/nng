@@ -5,7 +5,7 @@ void main()
 printf("Hello");
 printf("hi");
 printf("Hi from Github");
-// This is deleted line
+// This line editing by gcet branch
 printf("hello");
 printf("Hi from sng branch");
 printf("hello hi");
